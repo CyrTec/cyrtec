@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Our services — How can I help?
 
-You can use the [editor on GitHub](https://github.com/CyrTec/cyrtec/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## At CyrTec, I do two things.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Organize and instruct Lego Robotics programs in the region.
+I mentor kids 7 - 10 years old in an early experience with Lego robots.  At this level the goal is to provide a positive and supportive environment for kids with early interest in robotics.  The course begins with some simple and whimsical robots -- claws and rovers are always a hit!  The instruction is kept light and simple and each child is encouraged to make changes to the robots as they see fit.  Currently this program is running at the Old Town, Maine parks and Recreation department.
+- [Programs[(http://www.oldtownrec.com/info/activities/program_details.aspx?ProgramID=29740)
 
-### Markdown
+I teach kids 9 - 14 years old how to build Lego robots, program them, and solve the engineering problems associated with getting everything to work.  I'm a strong believer that every kid can both build and program robots.  At the level kids learn to use most sensors, detect obstacles, follow a line, and more.
+- [Programs[(http://www.oldtownrec.com/info/activities/program_details.aspx?ProgramID=29740)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Programming and Network Engineering for organizations and businesses.
+If it runs software or is connected to a network or the web, I’m here to help.  I have more than 20 years of experience in the IT industry — computer networks, security, programming, management, and the web.  I know that simple is better and I’m brand agnostic.  I am comfortable making specific recommendations and assisting with purchasing.
+I help clients with:
 
-# Header 1
-## Header 2
-### Header 3
+    - Network Security
+    - Web Security
+    - Data and Database
+    - Networking
+    - Cloud computing and Hardware
+    - Training
+    - Programming
 
-- Bulleted
-- List
+### I am now accepting new clients!  What can I do for you?
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CyrTec/cyrtec/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To reach me in my home office in Charleston, Maine:
+-send email to leo at CyrTec.com
+-call (207) 200-8624
