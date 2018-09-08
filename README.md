@@ -1,4 +1,4 @@
-# Our services — How can I help?
+# CyrTec services — How can I help?
 
 ## At CyrTec, I do two things.
 
