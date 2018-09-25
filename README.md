@@ -13,6 +13,8 @@ I teach kids 9 - 14 years old how to build Lego robots, program them, and solve 
 If it runs software or is connected to a network or the web, I can guide you to the best solution.  I have more than 20 years of experience in the IT industry — websites and marketing, technical management, computer networks, security, and programming.  I know that simple is better and I’m brand agnostic.  I am comfortable making specific recommendations and assisting with purchasing.
 
 I help clients with:
+- Choosing and migrating between technologies
+- Data preservation and conversion
 - Network Security
 - Web Security
 - Data and Database
