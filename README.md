@@ -26,5 +26,6 @@ I help clients with:
 ### I am now accepting new clients!  What can I do for you?
 
 To reach me in my home office in Charleston, Maine:
-- send email to leo at CyrTec.com
-- call (207) 200-8624
+- [email](mailto://leo@CyrTec.com) leo at CyrTec.com
+- [call](tel:+12072008624) (207) 200-8624
+- [LinkedIn](https://www.linkedin.com/in/leoecyr/)
